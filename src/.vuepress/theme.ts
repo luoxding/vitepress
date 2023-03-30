@@ -118,14 +118,14 @@ const nav = navbar([
   { text: "留言板", link: "/comment/", icon: 'comment' },
 ]);
 export default hopeTheme({
-  hostname: "https://fyhhub.github.io",
+  hostname: "https://luoxding.github.io/vitepress",
   author: {
     name: "fyhub",
     url: "",
   },
   iconAssets: "iconfont",
   logo: "/logo.svg",
-  repo: "fyhhub/fyhhub.github.io",
+  repo: "luoxding/vitepress",
   repoLabel: "GitHub",
   docsDir: "docs",
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
