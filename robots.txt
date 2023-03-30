@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://fyhhub.github.io/sitemap.xml
+Sitemap: https://luoxding.github.io/vitepress/sitemap.xml
